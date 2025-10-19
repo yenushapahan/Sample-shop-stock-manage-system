@@ -1,0 +1,93 @@
+[
+     {
+          "productId": 1,
+          "productName": "skinny",
+          "productPrice": 200.0,
+          "productCategory": "Mediam",
+          "productCount": 47
+     },
+     {
+          "productId": 2,
+          "productName": "skinny",
+          "productPrice": 300.0,
+          "productCategory": "Large",
+          "productCount": 47
+     },
+     {
+          "productId": 3,
+          "productName": "T-SHIRTS",
+          "productPrice": 2000.0,
+          "productCategory": "Large",
+          "productCount": 40
+     },
+     {
+          "productId": 4,
+          "productName": "Teddies",
+          "productPrice": 2000.0,
+          "productCategory": "-",
+          "productCount": 100
+     },
+     {
+          "productId": 5,
+          "productName": "T-SHIRTS",
+          "productPrice": 1200.0,
+          "productCategory": "Mediam",
+          "productCount": 20
+     },
+     {
+          "productId": 6,
+          "productName": "skinny",
+          "productPrice": 1000.0,
+          "productCategory": "XL",
+          "productCount": 20
+     },
+     {
+          "productId": 7,
+          "productName": "Pants",
+          "productPrice": 200.0,
+          "productCategory": "Mediam",
+          "productCount": 30
+     },
+     {
+          "productId": 8,
+          "productName": "Bra",
+          "productPrice": "1200",
+          "productCategory": "Mediam",
+          "productCount": 10
+     },
+     {
+          "productId": 9,
+          "productName": "Shorts",
+          "productPrice": "1500",
+          "productCategory": "Mediam",
+          "productCount": 15
+     },
+     {
+          "productId": 10,
+          "productName": "Watches",
+          "productPrice": "3000",
+          "productCategory": "-",
+          "productCount": 5
+     },
+     {
+          "productId": 12,
+          "productName": "Watches",
+          "productPrice": "3000",
+          "productCategory": "Other",
+          "productCount": 20
+     },
+     {
+          "productId": 13,
+          "productName": "Bra",
+          "productPrice": "1500",
+          "productCategory": "Large",
+          "productCount": 20
+     },
+     {
+          "productId": 13,
+          "productName": "Shocks",
+          "productPrice": "200",
+          "productCategory": "Mediam",
+          "productCount": 20
+     }
+]

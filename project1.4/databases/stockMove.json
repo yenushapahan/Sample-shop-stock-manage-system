@@ -1,0 +1,552 @@
+[
+{
+        "STM_Number": 1,
+        "date": "2025/07/16",
+        "time": "10:50:54",
+        "productName": "SKINNY",
+        "productSize": "MEDIAM",
+        "productPrice": "200.0",
+        "productCustumer": "-",
+        "productCount":"3",
+        "productMove": "out"
+},
+{
+         "STM_Number": 2,
+         "date": "2025/07/16",
+         "time": "11:09:42",
+         "productName": "SKINNY",
+         "productSize": "MEDIAM",
+         "productPrice": "200.0",
+         "productCount": "10",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 3,
+         "date": "2025/07/16",
+         "time": "11:11:21",
+         "productName": "SKINNY",
+         "productSize": "LARGE",
+         "productPrice": "300.0",
+         "productCount": "3",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 4,
+         "date": "2025/07/16",
+         "time": "11:11:21",
+         "productName": "SKINNY",
+         "productSize": "LARGE",
+         "productPrice": "300.0",
+         "productCount": "3",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 5,
+         "date": "2025/07/16",
+         "time": "11:11:21",
+         "productName": "SKINNY",
+         "productSize": "MEDIAM",
+         "productPrice": "200.0",
+         "productCount": "4",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 6,
+         "date": "2025/07/16",
+         "time": "15:43:27",
+         "productName": "SKINNY",
+         "productSize": "MEDIAM",
+         "productPrice": "200.0",
+         "productCount": "3",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 7,
+         "date": "2025/07/16",
+         "time": "15:43:27",
+         "productName": "PANTS",
+         "productSize": "MEDIAM",
+         "productPrice": "200.0",
+         "productCount": "3",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 8,
+         "date": "2025/07/16",
+         "time": "15:51:39",
+         "productName": "PANTS",
+         "productSize": "MEDIAM",
+         "productPrice": "200.0",
+         "productCount": "3",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 9,
+         "date": "2025/07/16",
+         "time": "15:51:39",
+         "productName": "T-SHIRTS",
+         "productSize": "MEDIAM",
+         "productPrice": "1200.0",
+         "productCount": "3",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 10,
+         "date": "2025/07/16",
+         "time": "15:53:50",
+         "productName": "PANTS",
+         "productSize": "MEDIAM",
+         "productPrice": "200.0",
+         "productCount": "10",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 11,
+         "date": "2025/07/16",
+         "time": "15:53:50",
+         "productName": "SKINNY",
+         "productSize": "LARGE",
+         "productPrice": "300.0",
+         "productCount": "10",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 12,
+         "date": "2025/07/16",
+         "time": "15:53:50",
+         "productName": "TEDDIES",
+         "productSize": "-",
+         "productPrice": "2000.0",
+         "productCount": "5",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 13,
+         "date": "2025/07/16",
+         "time": "17:19:15",
+         "productName": "skinny",
+         "productSize": "Mediam",
+         "productPrice": "200",
+         "productCount": "10",
+         "productCustumer": "manduli-fashion",
+         "productMove": "in"
+}
+,{
+         "STM_Number": 14,
+         "date": "2025/07/16",
+         "time": "17:22:48",
+         "productName": "skinny",
+         "productSize": "Mediam",
+         "productPrice": "200",
+         "productCount": "10",
+         "productCustumer": "manduli",
+         "productMove": "in"
+}
+,{
+         "STM_Number": 15,
+         "date": "2025/07/16",
+         "time": "17:25:00",
+         "productName": "skinny",
+         "productSize": "Mediam",
+         "productPrice": "200",
+         "productCount": "10",
+         "productCustumer": "manduli fashion",
+         "productMove": "in"
+}
+,{
+         "STM_Number": 16,
+         "date": "2025/07/16",
+         "time": "17:26:20",
+         "productName": "skinny",
+         "productSize": "Mediam",
+         "productPrice": "200",
+         "productCount": "10",
+         "productCustumer": "Manduli Fashim",
+         "productMove": "in"
+}
+,{
+         "STM_Number": 17,
+         "date": "2025/07/16",
+         "time": "17:28:51",
+         "productName": "skinny",
+         "productSize": "Mediam",
+         "productPrice": "200",
+         "productCount": "10",
+         "productCustumer": "Manduli-Fashion",
+         "productMove": "in"
+}
+,{
+         "STM_Number": 18,
+         "date": "2025/07/16",
+         "time": "18:28:00",
+         "productName": "skinny",
+         "productSize": "Mediam",
+         "productPrice": "200",
+         "productCount": "10",
+         "productCustumer": "Manduli",
+         "productMove": "in"
+}
+,{
+         "STM_Number": 19,
+         "date": "2025/07/16",
+         "time": "18:29:44",
+         "productName": "skinny",
+         "productSize": "Mediam",
+         "productPrice": "200",
+         "productCount": "10",
+         "productCustumer": "Manduli",
+         "productMove": "in"
+}
+,{
+         "STM_Number": 20,
+         "date": "2025/07/16",
+         "time": "18:35:48",
+         "productName": "Bra",
+         "productSize": "Mediam",
+         "productPrice": "1200",
+         "productCount": "10",
+         "productCustumer": "Apsara",
+         "productMove": "in"
+}
+,{
+         "STM_Number": 21,
+         "date": "2025/07/16",
+         "time": "18:44:05",
+         "productName": "Bra",
+         "productSize": "Mediam",
+         "productPrice": "1200",
+         "productCount": "10",
+         "productCustumer": "Apsara",
+         "productMove": "in"
+}
+
+,{
+         "STM_Number": 22,
+         "date": "2025/07/16",
+         "time": "19:20:40",
+         "productName": "skinny",
+         "productSize": "XL",
+         "productPrice": "1000",
+         "productCount": "10",
+         "productCustumer": "Manduli",
+         "productMove": "in"
+}
+,{
+         "STM_Number": 23,
+         "date": "2025/07/16",
+         "time": "19:20:40",
+         "productName": "bra",
+         "productSize": "Mediam",
+         "productPrice": "1200",
+         "productCount": "10",
+         "productCustumer": "Apsara",
+         "productMove": "in"
+}
+,{
+         "STM_Number": 24,
+         "date": "2025/07/16",
+         "time": "19:23:16",
+         "productName": "Shorts",
+         "productSize": "Mediam",
+         "productPrice": "1500",
+         "productCount": "15",
+         "productCustumer": "Beach",
+         "productMove": "in"
+}
+,{
+         "STM_Number": 25,
+         "date": "2025/07/16",
+         "time": "19:23:16",
+         "productName": "skinny",
+         "productSize": "XL",
+         "productPrice": "1000",
+         "productCount": "10",
+         "productCustumer": "M&S products",
+         "productMove": "in"
+}
+,{
+         "STM_Number": 26,
+         "date": "2025/07/22",
+         "time": "22:55:45",
+         "productName": "PANTS",
+         "productSize": "MEDIAM",
+         "productPrice": "200.0",
+         "productCount": "3",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 27,
+         "date": "2025/07/22",
+         "time": "22:55:45",
+         "productName": "SKINNY",
+         "productSize": "LARGE",
+         "productPrice": "300.0",
+         "productCount": "4",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 28,
+         "date": "2025/07/22",
+         "time": "22:55:45",
+         "productName": "T-SHIRTS",
+         "productSize": "LARGE",
+         "productPrice": "2000.0",
+         "productCount": "4",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 29,
+         "date": "2025/07/22",
+         "time": "22:55:45",
+         "productName": "SKINNY",
+         "productSize": "XL",
+         "productPrice": "1000.0",
+         "productCount": "10",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 30,
+         "date": "2025/07/23",
+         "time": "08:39:35",
+         "productName": "BRA",
+         "productSize": "MEDIAM",
+         "productPrice": "1200",
+         "productCount": "5",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 31,
+         "date": "2025/07/23",
+         "time": "08:39:35",
+         "productName": "SHORTS",
+         "productSize": "MEDIAM",
+         "productPrice": "1500",
+         "productCount": "3",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 32,
+         "date": "2025/07/23",
+         "time": "11:11:03",
+         "productName": "Watches",
+         "productSize": "Other",
+         "productPrice": "3000",
+         "productCount": "5",
+         "productCustumer": "Catel",
+         "productMove": "in"
+}
+,{
+         "STM_Number": 33,
+         "date": "2025/07/23",
+         "time": "11:11:03",
+         "productName": "T-SHIRTS",
+         "productSize": "LARGE",
+         "productPrice": "2000.0",
+         "productCount": "3",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 34,
+         "date": "2025/07/23",
+         "time": "11:11:03",
+         "productName": "T-SHIRTS",
+         "productSize": "MEDIAM",
+         "productPrice": "1200.0",
+         "productCount": "3",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 35,
+         "date": "2025/07/23",
+         "time": "11:11:03",
+         "productName": "SHORTS",
+         "productSize": "MEDIAM",
+         "productPrice": "1500",
+         "productCount": "3",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 36,
+         "date": "2025/07/23",
+         "time": "11:11:03",
+         "productName": "SKINNY",
+         "productSize": "LARGE",
+         "productPrice": "300.0",
+         "productCount": "3",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 37,
+         "date": "2025/07/23",
+         "time": "11:11:03",
+         "productName": "Bra",
+         "productSize": "Mediam",
+         "productPrice": "1200",
+         "productCount": "10",
+         "productCustumer": "Selona",
+         "productMove": "in"
+}
+,{
+         "STM_Number": 38,
+         "date": "2025/07/23",
+         "time": "15:19:24",
+         "productName": "WATCHES",
+         "productSize": "-",
+         "productPrice": "3000",
+         "productCount": "1",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 39,
+         "date": "2025/07/23",
+         "time": "15:19:24",
+         "productName": "PANTS",
+         "productSize": "MEDIAM",
+         "productPrice": "200.0",
+         "productCount": "5",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 40,
+         "date": "2025/07/23",
+         "time": "15:19:24",
+         "productName": "TEDDIES",
+         "productSize": "-",
+         "productPrice": "2000.0",
+         "productCount": 1,
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 41,
+         "date": "2025/07/23",
+         "time": "15:19:24",
+         "productName": "SHORTS",
+         "productSize": "MEDIAM",
+         "productPrice": "1500",
+         "productCount": "3",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 42,
+         "date": "2025/07/23",
+         "time": "15:19:24",
+         "productName": "SKINNY",
+         "productSize": "LARGE",
+         "productPrice": "300.0",
+         "productCount": "10",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 43,
+         "date": "2025/07/23",
+         "time": "15:19:24",
+         "productName": "Watches",
+         "productSize": "Other",
+         "productPrice": "3000",
+         "productCount": "20",
+         "productCustumer": "-",
+         "productMove": "in"
+}
+,{
+         "STM_Number": 44,
+         "date": "2025/07/23",
+         "time": "15:19:24",
+         "productName": "Bra",
+         "productSize": "Large",
+         "productPrice": "1500",
+         "productCount": "20",
+         "productCustumer": "Apsara",
+         "productMove": "in"
+}
+,{
+         "STM_Number": 45,
+         "date": "2025/07/28",
+         "time": "10:20:05",
+         "productName": "SHORTS",
+         "productSize": "MEDIAM",
+         "productPrice": "1500",
+         "productCount": "3",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 46,
+         "date": "2025/07/28",
+         "time": "10:20:05",
+         "productName": "TEDDIES",
+         "productSize": "-",
+         "productPrice": "2000.0",
+         "productCount": "4",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 47,
+         "date": "2025/07/28",
+         "time": "10:20:05",
+         "productName": "PANTS",
+         "productSize": "MEDIAM",
+         "productPrice": "200.0",
+         "productCount": "3",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 48,
+         "date": "2025/07/28",
+         "time": "11:01:13",
+         "productName": "Shocks",
+         "productSize": "Mediam",
+         "productPrice": "200",
+         "productCount": "20",
+         "productCustumer": "M-Fashion",
+         "productMove": "in"
+}
+,{
+         "STM_Number": 49,
+         "date": "2025/09/17",
+         "time": "19:21:07",
+         "productName": "SKINNY",
+         "productSize": "MEDIAM",
+         "productPrice": "200.0",
+         "productCount": "3",
+         "productCustumer": "-",
+         "productMove": "out"
+}
+,{
+         "STM_Number": 50,
+         "date": "2025/09/21",
+         "time": "23:28:42",
+         "productName": "SHOCKS",
+         "productSize": "MEDIAM",
+         "productPrice": "200",
+         "productCount": "1",
+         "productCustumer": "-",
+         "productMove": "out"
+}]

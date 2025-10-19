@@ -1,0 +1,231 @@
+[
+  { "shopId": 0, "date": "2025/07/15", "now": "21:31:55", "productName": "SKINNY", "productSize": "XL", "productPrice": "1000.0", "productCount": "5", "total": 5000.0 },
+  { "shopId": 1, "date": "2025/07/15", "now": "21:31:55", "productName": "PANTS", "productSize": "MEDIAM", "productPrice": "200.0", "productCount": "3", "total": 600.0 },
+  { "shopId": 2, "date": "2025/07/15", "now": "21:31:55", "productName": "T-SHIRTS", "productSize": "LARGE", "productPrice": "2000.0", "productCount": "2", "total": 4000.0 },
+  { "shopId": 3, "date": "2025/07/15", "now": "21:31:55", "productName": "T-SHIRTS", "productSize": "MEDIAM", "productPrice": "1200.0", "productCount": "2", "total": 2400.0 },
+  { "shopId": 4, "date": "2025/07/16", "now": "09:24:34", "productName": "SKINNY", "productSize": "LARGE", "productPrice": "300.0", "productCount": "8", "total": 2400.0 },
+  { "shopId": 5, "date": "2025/07/16", "now": "09:25:44", "productName": "SKINNY", "productSize": "LARGE", "productPrice": "300.0", "productCount": "5", "total": 1500.0 },
+  { "shopId": 6, "date": "2025/07/17", "now": "09:29:25", "productName": "SKINNY", "productSize": "LARGE", "productPrice": "300.0", "productCount": "3", "total": 900.0 },
+  { "shopId": 7, "date": "2025/07/17", "now": "09:32:26", "productName": "SKINNY", "productSize": "LARGE", "productPrice": "300.0", "productCount": "2", "total": 600.0 },
+  { "shopId": 8, "date": "2025/07/18", "now": "10:50:54", "productName": "SKINNY", "productSize": "MEDIAM", "productPrice": "200.0", "productCount": "3", "total": 600.0 },
+  { "shopId": 9, "date": "2025/07/18", "now": "11:09:42", "productName": "SKINNY", "productSize": "MEDIAM", "productPrice": "200.0", "productCount": "10", "total": 2000.0 },
+  { "shopId": 10, "date": "2025/07/19", "now": "11:11:21", "productName": "SKINNY", "productSize": "LARGE", "productPrice": "300.0", "productCount": "3", "total": 900.0 },
+  { "shopId": 11, "date": "2025/07/19", "now": "11:11:21", "productName": "SKINNY", "productSize": "LARGE", "productPrice": "300.0", "productCount": "3", "total": 900.0 },
+  { "shopId": 12, "date": "2025/07/19", "now": "11:11:21", "productName": "SKINNY", "productSize": "MEDIAM", "productPrice": "200.0", "productCount": "4", "total": 800.0 },
+  { "shopId": 13, "date": "2025/07/22", "now": "15:43:27", "productName": "SKINNY", "productSize": "MEDIAM", "productPrice": "200.0", "productCount": "3", "total": 600.0 },
+  { "shopId": 14, "date": "2025/07/22", "now": "15:43:27", "productName": "PANTS", "productSize": "MEDIAM", "productPrice": "200.0", "productCount": "3", "total": 600.0 },
+  { "shopId": 15, "date": "2025/07/22", "now": "15:51:39", "productName": "PANTS", "productSize": "MEDIAM", "productPrice": "200.0", "productCount": "3", "total": 600.0 },
+  { "shopId": 16, "date": "2025/07/22", "now": "15:51:39", "productName": "T-SHIRTS", "productSize": "MEDIAM", "productPrice": "1200.0", "productCount": "3", "total": 3600.0 },
+  { "shopId": 17, "date": "2025/07/22", "now": "15:53:50", "productName": "PANTS", "productSize": "MEDIAM", "productPrice": "200.0", "productCount": "10", "total": 2000.0 },
+  { "shopId": 18, "date": "2025/07/22", "now": "15:53:50", "productName": "SKINNY", "productSize": "LARGE", "productPrice": "300.0", "productCount": "10", "total": 3000.0 },
+  { 
+    "shopId": 19, 
+    "date": "2025/07/22", 
+    "now": "15:53:50", 
+    "productName": "TEDDIES", 
+    "productSize": "-", 
+    "productPrice": "2000.0", 
+    "productCount": "5", 
+    "total": 10000.0 
+}
+
+,{
+        "shopId": 20,
+        "date": "2025/07/22",
+        "now": "22:55:45",
+        "productName": "PANTS",
+        "productSize": "MEDIAM",
+        "productPrice": "200.0",
+        "productCount": "3",
+        "total": 600.0
+}
+,{
+        "shopId": 21,
+        "date": "2025/07/22",
+        "now": "22:55:45",
+        "productName": "SKINNY",
+        "productSize": "LARGE",
+        "productPrice": "300.0",
+        "productCount": "4",
+        "total": 1200.0
+}
+,{
+        "shopId": 22,
+        "date": "2025/07/22",
+        "now": "22:55:45",
+        "productName": "T-SHIRTS",
+        "productSize": "LARGE",
+        "productPrice": "2000.0",
+        "productCount": "4",
+        "total": 8000.0
+}
+,{
+        "shopId": 23,
+        "date": "2025/07/22",
+        "now": "22:55:45",
+        "productName": "SKINNY",
+        "productSize": "XL",
+        "productPrice": "1000.0",
+        "productCount": "10",
+        "total": 10000.0
+}
+,{
+        "shopId": 24,
+        "date": "2025/07/23",
+        "now": "08:39:35",
+        "productName": "BRA",
+        "productSize": "MEDIAM",
+        "productPrice": "1200",
+        "productCount": "5",
+        "total": 6000.0
+}
+,{
+        "shopId": 25,
+        "date": "2025/07/23",
+        "now": "08:39:35",
+        "productName": "SHORTS",
+        "productSize": "MEDIAM",
+        "productPrice": "1500",
+        "productCount": "3",
+        "total": 4500.0
+}
+,{
+        "shopId": 19,
+        "date": "2025/07/23",
+        "now": "11:11:03",
+        "productName": "T-SHIRTS",
+        "productSize": "LARGE",
+        "productPrice": "2000.0",
+        "productCount": "3",
+        "total": 6000.0
+}
+,{
+        "shopId": 19,
+        "date": "2025/07/23",
+        "now": "11:11:03",
+        "productName": "T-SHIRTS",
+        "productSize": "MEDIAM",
+        "productPrice": "1200.0",
+        "productCount": "3",
+        "total": 3600.0
+}
+,{
+        "shopId": 19,
+        "date": "2025/07/23",
+        "now": "11:11:03",
+        "productName": "SHORTS",
+        "productSize": "MEDIAM",
+        "productPrice": "1500",
+        "productCount": "3",
+        "total": 4500.0
+}
+,{
+        "shopId": 19,
+        "date": "2025/07/23",
+        "now": "11:11:03",
+        "productName": "SKINNY",
+        "productSize": "LARGE",
+        "productPrice": "300.0",
+        "productCount": "3",
+        "total": 900.0
+}
+,{
+        "shopId": 19,
+        "date": "2025/07/23",
+        "now": "15:19:24",
+        "productName": "WATCHES",
+        "productSize": "-",
+        "productPrice": "3000",
+        "productCount": "1",
+        "total": 3000.0
+}
+,{
+        "shopId": 19,
+        "date": "2025/07/23",
+        "now": "15:19:24",
+        "productName": "PANTS",
+        "productSize": "MEDIAM",
+        "productPrice": "200.0",
+        "productCount": "5",
+        "total": 1000.0
+}
+,{
+        "shopId": 19,
+        "date": "2025/07/23",
+        "now": "15:19:24",
+        "productName": "TEDDIES",
+        "productSize": "-",
+        "productPrice": "2000.0",
+        "productCount": 1,
+        "total": 2000.0
+}
+,{
+        "shopId": 19,
+        "date": "2025/07/23",
+        "now": "15:19:24",
+        "productName": "SHORTS",
+        "productSize": "MEDIAM",
+        "productPrice": "1500",
+        "productCount": "3",
+        "total": 4500.0
+}
+,{
+        "shopId": 19,
+        "date": "2025/07/23",
+        "now": "15:19:24",
+        "productName": "SKINNY",
+        "productSize": "LARGE",
+        "productPrice": "300.0",
+        "productCount": "10",
+        "total": 3000.0
+}
+,{
+        "shopId": 19,
+        "date": "2025/07/28",
+        "now": "10:20:05",
+        "productName": "SHORTS",
+        "productSize": "MEDIAM",
+        "productPrice": "1500",
+        "productCount": "3",
+        "total": 4500.0
+}
+,{
+        "shopId": 19,
+        "date": "2025/07/28",
+        "now": "10:20:05",
+        "productName": "TEDDIES",
+        "productSize": "-",
+        "productPrice": "2000.0",
+        "productCount": "4",
+        "total": 8000.0
+}
+,{
+        "shopId": 19,
+        "date": "2025/07/28",
+        "now": "10:20:05",
+        "productName": "PANTS",
+        "productSize": "MEDIAM",
+        "productPrice": "200.0",
+        "productCount": "3",
+        "total": 600.0
+}
+,{
+        "shopId": 19,
+        "date": "2025/09/17",
+        "now": "19:21:07",
+        "productName": "SKINNY",
+        "productSize": "MEDIAM",
+        "productPrice": "200.0",
+        "productCount": "3",
+        "total": 600.0
+}
+,{
+        "shopId": 19,
+        "date": "2025/09/21",
+        "now": "23:28:42",
+        "productName": "SHOCKS",
+        "productSize": "MEDIAM",
+        "productPrice": "200",
+        "productCount": "1",
+        "total": 200.0
+}]
